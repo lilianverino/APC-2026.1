@@ -135,3 +135,23 @@ https://www.toptal.com/developers/sorting-algorithms
 E depois execução dos algoritmos com os dados da PDAD, conforme se encontram na ficha de atividades.
 
 A atividade foi feita pelo https://jupyter.org/try-jupyter/lab/index.html. Sendo assim, algumas alterações foram feitas. Para que o código funcionasse, adicionei moradores.csv (moradores.xlsx, mas em um novo formao). Na pasta Semana12-13, segue o arquivo com os exercícios feitos e os relatórios referentes aos exercício 4. Coloquei apenas 3 de exemplo, aso queira testar os outros, basta rodar o código. 
+
+# Semana 14
+
+Na aula teórica (15/06), foi aplicada a p1. Na aula prática, aconteceu a correção da prova e os exercícios de pyton, 
+Nome dos arquivos dos exercícios:
+01_janela_basica. py 
+02_widgets. py
+03_layout_grid. py
+04_eventos_blind. py
+05_dialogos. py
+06_grafico. py
+Eles foram feitos com o objetivo de aprender as funcionalidades do tkinter.
+
+# Semana 15-16
+
+Trabalho final
+Para o ler trabalho final, baixe os arquivos completos disponíveis em:
+https://pdad.ipe.df.gov.br
+PDAD_2024-Moradores.csv— uma linha por morador (~25 000 registros)
+PDAD_2024-Domicilios.xlsx— uma linha por domicílio
