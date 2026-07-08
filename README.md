@@ -2,7 +2,9 @@ Bom(a) dia, tarde ou noite! Sou a Lilian,
 
 Atualmente, sou estudante de Matemática, mas estou ampliando meus conhecimentos ao me aventurar em algumas matérias da Ciência da Computação (CIC). Acredito que a lógica matemática e o código se complementam perfeitamente.
 
-# Resumo: Game Lab (Code.org) - Semana 04-06
+#  Semana 04-06 
+
+## Resumo: Game Lab (Code.org):
 
 
 Este repositório contém o resumo estruturado de tudo o que eu aprendi durante as semana 04 a 06 do curso de Ciências da Computação com Game Lab no Code.org.
@@ -69,6 +71,9 @@ Aprendi a capturar as interações com o mouse (como cliques, movimentos e a pos
 
 ---
 
+# Semana 07:
+
+A aula teórica teve foco nas dúvidas sobre o code.org. Devido a problemas de saúde do professor, não tivemos aula prática.
 
 ## Módulo 4: Física de Jogos e Interações (Lições 13 a 16)
 
@@ -80,6 +85,9 @@ Foi simplificada a movimentação dos personagens ao utilizar as propriedades na
 ### Lição 14: Collision Detection (Detecção de Colisão)
 Entendi como o computador calcula se dois sprites estão se tocando através do comando `isTouching`, o que me habilitou a programar mecânicas clássicas como coletar moedas ou receber dano.
 
+# Semana 08:
+
+Na aula teórica, vimos o resumo de aplicações da ciência da computação e suas aplicações, além dp exclarecimento de mais dúvidas sobre o code.org. Devido a problemas de saúde do professor, a aula prática foi ministrada pelos monitores, com o objetivo de concluir as atividades do code.
 
 ### Lição 15: Complex Sprite Movement (Movimento Complexo de Sprites)
 Comecei a combinar velocidade, colisões simples e gravidade simulada para desenvolver movimentos avançados mais realistas, como pulos e quiques.
@@ -99,9 +107,10 @@ Aprendi a agrupar blocos de código repetitivos em "funções" personalizadas co
 
 
 ### Lição 18: Project - Design a Game (Projeto - Desenhar um Jogo)
-Coloquei em prática tudo o que estudei ao longo da unidade (desenho, sprites, loops, física, interatividade e funções) para planejar, programar do zero e publicar o meu próprio jogo digital completo.
+Coloquei em prática tudo o que estudei ao longo da unidade (desenho, sprites, loops, física, interatividade e funções) para planejar, programar do zero e publicar o meu próprio jogo digital completo. O jogo está na pasta Semana04-08.
 
 
 
+# Semana 09:
 
-
+Introdução a C e exercícios do link https://claude.ai/public/artifacts/f99f6ab2-60aa-4d8e-8cf4-ddb24015076a. O pdf com a resolução dos exercícios está na pasta Semana09.
