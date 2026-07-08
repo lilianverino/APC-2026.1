@@ -114,3 +114,24 @@ Coloquei em prática tudo o que estudei ao longo da unidade (desenho, sprites, l
 # Semana 09:
 
 Introdução a C e exercícios do link https://claude.ai/public/artifacts/f99f6ab2-60aa-4d8e-8cf4-ddb24015076a. O pdf com a resolução dos exercícios está na pasta Semana09.
+
+# Semana 10:
+
+Lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita. Arquivo de nome exercicios_operadores_c.md.
+
+
+# Semana 11:
+
+Resolvemos a lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita.
+
+# Semana 12-13:
+
+Leitura dos sites:
+Páginas com explicações sobre algoritmos de ordenação: 
+https://visualgo.net/en/sorting
+https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+https://www.toptal.com/developers/sorting-algorithms
+
+E depois execução dos algoritmos com os dados da PDAD, conforme se encontram na ficha de atividades.
+
+A atividade foi feita pelo https://jupyter.org/try-jupyter/lab/index.html. Sendo assim, algumas alterações foram feitas. Para que o código funcionasse, adicionei moradores.csv (moradores.xlsx, mas em um novo formao). Na pasta Semana12-13, segue o arquivo com os exercícios feitos e os relatórios referentes aos exercício 4. Coloquei apenas 3 de exemplo, aso queira testar os outros, basta rodar o código. 
