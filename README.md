@@ -122,7 +122,7 @@ Lista de exercícios sobre operadores aritméticos e lógicos, para a prova escr
 
 # Semana 11:
 
-Resolvemos a lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita.
+Continuamos  na lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita.
 
 # Semana 12-13:
 
@@ -155,3 +155,4 @@ Para o ler trabalho final, baixe os arquivos completos disponíveis em:
 https://pdad.ipe.df.gov.br
 PDAD_2024-Moradores.csv— uma linha por morador (~25 000 registros)
 PDAD_2024-Domicilios.xlsx— uma linha por domicílio
+O relatório põe a média da idade, o percentual de mulheres (por RA e geral), distribuição de gênero(por RA e geral) e escolaridade(por RA e geral). Também importa o relatório geral em .txt.

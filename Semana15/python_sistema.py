@@ -8,7 +8,6 @@ import pandas as pd
 # 1. Carregar os dados
 file_path = r"c:\Users\User\Desktop\APC-2026.1\Semana15\moradores.csv"
 
-# === DICIONÁRIO DE MAPEAMENTO ===
 # Substitua os números abaixo pelos códigos reais da sua planilha
 # e coloque o nome correto de cada Região Administrativa.
 DICIONARIO_RAS = {
