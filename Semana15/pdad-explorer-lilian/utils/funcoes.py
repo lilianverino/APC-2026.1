@@ -162,6 +162,7 @@ def gerar_conteudo_relatorio(ra_codigo, ra_nome, moradores_df, setor_filtro=None
     # ==========================================
     # Monta o relatório em formato de texto 
     linhas = [f"Relatório da RA: {ra_nome}", "=" * 40]
+    linhas.append(f"Autora: Lilian Verino Lima")
     linhas.append(f"Total moradores: {len(filtro)}")
     linhas.append(f"Média de Idade: {media_idade:.1f} anos")
     linhas.append(f"Representação Feminina (cis): {porcentagem_mulheres:.1f}% do total")
@@ -328,7 +329,8 @@ def gerar_conteudo_relatorio_geral(moradores_df):
 
  # ==========================================
     # Monta o relatório em formato de texto integrando as médias e porcentagens
-    relatorio_completo = ["Relatório Geral:", "=" * 40]            
+    relatorio_completo = ["Relatório Geral:", "=" * 40] 
+    relatorio_completo.append(f"Autora: Lilian Verino Lima")           
     relatorio_completo.append(texto_ras) 
     
     # Adicionando os novos dados estatísticos no topo do bloco de dados demográficos

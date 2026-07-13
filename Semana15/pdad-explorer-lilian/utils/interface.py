@@ -71,7 +71,7 @@ class AppAnalise:
             legenda_frame.pack(fill="x", padx=80, pady=10)
 
             # Adicionando as informações de autor, variáveis e escopo
-            tk.Label(legenda_frame, text="Autor:", font=("Arial", 9, "bold")).grid(row=0, column=0, sticky="w", padx=5, pady=2)
+            tk.Label(legenda_frame, text="Autora:", font=("Arial", 9, "bold")).grid(row=0, column=0, sticky="w", padx=5, pady=2)
             tk.Label(legenda_frame, text="Lilian Verino Lima", font=("Arial", 9)).grid(row=0, column=1, sticky="w", padx=5, pady=2)
             
             tk.Label(legenda_frame, text="Escopo:", font=("Arial", 9, "bold")).grid(row=2, column=0, sticky="w", padx=5, pady=2)
