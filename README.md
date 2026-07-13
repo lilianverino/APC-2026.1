@@ -121,12 +121,12 @@ Introdução a C e exercícios do link https://claude.ai/public/artifacts/f99f6a
 
 # Semana 10:
 
-Lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita. Arquivo de nome exercicios_operadores_c.md.
+Lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita. Arquivo de nome exercicios_operadores_c.md. PDF dos exercícios na pasta semana 10-11.
 
 
 # Semana 11:
 
-Continuamos  na lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita.
+Continuamos  na lista de exercícios sobre operadores aritméticos e lógicos, para a prova escrita. PDF dos exercícios na pasta semana 10-11.
 
 # Semana 12-13:
 
