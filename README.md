@@ -138,7 +138,7 @@ https://www.toptal.com/developers/sorting-algorithms
 
 E depois execução dos algoritmos com os dados da PDAD, conforme se encontram na ficha de atividades.
 
-A atividade foi feita pelo https://jupyter.org/try-jupyter/lab/index.html. Sendo assim, algumas alterações foram feitas. Para que o código funcionasse, adicionei moradores.csv (moradores.xlsx, mas em um novo formao). Na pasta Semana12-13, segue o arquivo com os exercícios feitos e os relatórios referentes aos exercício 4. Coloquei apenas 3 de exemplo, aso queira testar os outros, basta rodar o código. 
+A atividade foi feita pelo https://jupyter.org/try-jupyter/lab/index.html. Sendo assim, algumas alterações foram feitas. Para que o código funcionasse, adicionei moradores.csv (moradores.xlsx, mas em um novo formao). Na pasta Semana12-13, segue o arquivo com os exercícios feitos e os relatórios referentes aos exercício 4. Coloquei apenas 3 de exemplo, caso queira testar os outros, basta rodar o código. 
 
 # Semana 14
 
