@@ -154,9 +154,36 @@ Eles foram feitos com o objetivo de aprender as funcionalidades do tkinter.
 
 # Semana 15-16
 
-Trabalho final
+## Trabalho final
 Para o ler trabalho final, baixe os arquivos completos disponíveis em:
 https://pdad.ipe.df.gov.br
 PDAD_2024-Moradores.csv— uma linha por morador (~25 000 registros)
 PDAD_2024-Domicilios.xlsx— uma linha por domicílio
+
 O relatório põe a média da idade, o percentual de mulheres (por RA e geral), distribuição de gênero(por RA e geral) e escolaridade(por RA e geral). Também importa o relatório geral em .txt.
+
+### Como Executar o Projeto
+Para rodar o sistema, certifique-se de que o seu terminal está aberto na pasta raiz do projeto (pdad-explorer-lilian) e execute o comando:
+python sistema.py
+
+### Como Instalar as Dependências (Requisitos)
+Antes de executar o projeto pela primeira vez, você precisa instalar as bibliotecas necessárias para manipulação de dados, geração de gráficos e leitura de arquivos Excel. Rode o seguinte comando no terminal:
+pip install pandas matplotlib openpyxl
+
+### Arquivos de Dados Necessários
+Para o sistema funcionar sem erros, os bancos de dados do projeto precisam estar salvos exatamente dentro da pasta dados/ na raiz do projeto, com os seguintes nomes:
+
+moradores.csv (Base de dados dos moradores)
+domicilios.xlsx (Base de dados dos domicílios em formato Excel)
+
+### Sua estrutura de pastas deve se manter exatamente assim:
+Plaintext
+pdad-explorer-lilian/
+├── dados/
+│   ├── domicilios.xlsx
+│   └── moradores.csv
+├── utils/
+│   ├── dicionario.py
+│   ├── funcoes.py
+│   └── interface.py
+└── sistema.py
